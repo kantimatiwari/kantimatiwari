@@ -30,7 +30,7 @@
 <b align= "justify"> I am `Kantima Tiwari`, a `Aspiring Unity Game Devloper & AWS Devops Engineer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nagpur, India.
 - :telescope: I'm a recent graduate in `Bachelor of Technology` degree at Nagpur University with a focus on `Information Technology`.
 - :computer: Passionate about the intersection of technology and efficiency, particularly within software development and operations.
-- :gear: `Aspiring Software Engineer` with a solid foundation in `DevOps` and `Unity Game Engine` concepts.
+- :gear: `Aspiring Software Engineer` with a solid foundation in `DevOps, AWS` and `Unity Game Engine` concepts.
 - :rocket: Proficient in `Python, Object-Oriented Programming, Data Structures & Algorithms, and Computer Networking`.
 - :bulb: Keen on applying these competencies to real-world challenges and actively seeking opportunities to contribute knowledge.
 </b>
